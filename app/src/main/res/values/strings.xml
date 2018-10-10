@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Vehicle sounds</string>
+    <string name="bus">Bus</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="aquabus">Aquabus</string>
+    <string name="autocrane">Autocrane</string>
+    <string name="bulldozer">Bulldozer</string>
+    <string name="concrete_mixer">Concrete mixer</string>
+    <string name="dump_truck">Dump truck</string>
+    <string name="excavator">Excavator</string>
+    <string name="ferry">Ferry</string>
+    <string name="fire_truck">Fire truck</string>
+    <string name="funicular">Funicular</string>
+    <string name="garbage_truck">Garbage truck</string>
+    <string name="helicopter">Helicopter</string>
+    <string name="metro">Subway, Underground</string>
+    <string name="plane">Plane</string>
+    <string name="police">Police</string>
+    <string name="snowplow_truck">Snowplow truck</string>
+    <string name="street_flusher">Street flusher</string>
+    <string name="suburban_train">Suburban train</string>
+    <string name="taxi">Taxi</string>
+    <string name="tow_truck">Tow truck</string>
+    <string name="tractor">Tractor</string>
+    <string name="train">Train</string>
+    <string name="tram">Tram</string>
+    <string name="trolleybus">Trolleybus</string>
+    <string name="tuktuk">tuk-tuk</string>
+    <string name="transport">Transport</string>
+    <string name="working_machine">Working vehicles</string>
+    <string name="water_taxi">Water taxi</string>
+</resources>

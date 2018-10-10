@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Звуки машин</string>
+    <string name="bus">Автобус</string>
+    <string name="ambulance">Скорая помощь</string>
+    <string name="aquabus">Аквабус</string>
+    <string name="autocrane">Автокран</string>
+    <string name="bulldozer">Бульдозер</string>
+    <string name="concrete_mixer">Бетономешалка</string>
+    <string name="dump_truck">Самосвал</string>
+    <string name="excavator">Экскаватор</string>
+    <string name="ferry">Паром</string>
+    <string name="fire_truck">Пожарная машина</string>
+    <string name="funicular">Фуникулёр</string>
+    <string name="helicopter">Вертолёт</string>
+    <string name="metro">Метро</string>
+    <string name="plane">Самолёт</string>
+    <string name="police">Полицейская машина</string>
+    <string name="snowplow_truck">Снегоуборочная машина</string>
+    <string name="street_flusher">Поливальная машина</string>
+    <string name="suburban_train">Электричка</string>
+    <string name="taxi">Такси</string>
+    <string name="garbage_truck">Мусоровоз</string>
+    <string name="tow_truck">Эвакуатор</string>
+    <string name="tractor">Трактор</string>
+    <string name="train">Поезд</string>
+    <string name="tram">Трамвай</string>
+    <string name="trolleybus">Троллейбус</string>
+    <string name="tuktuk">Тук-тук</string>
+    <string name="transport">Транспорт</string>
+    <string name="working_machine">Рабочие машины</string>
+    <string name="water_taxi">Водное такси</string>
+</resources>
